@@ -330,4 +330,5 @@ python run_jc4_mod_gui.py
 ### **Complete Workflow**
 1. Select Vehicle → 2. Silent EE→XML → 3. Edit Performance → 4. Silent XML→EE → 5. 🚀 Deploy → 6. 🎮 Test & Enjoy!
 
-**🎉 All reported issues have been resolved - ready for seamless JC4 modding!**
+**🎉 All reported issues have been resolved - ready for seamless JC4 modding!**#   j c 4 - m o d - m a k e r  
+ 
