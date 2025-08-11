@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<gravity name="gravity_multiplier_grounded" offset="00000100" type="float" />
+	<gravity name="gravity_multiplier_in_air_up" offset="00000104" type="float" />
+	<gravity name="gravity_multiplier_in_air_down" offset="00000108" type="float" />
+	<nitro_boost name="torque_multiplier" offset="00000190" type="float" />
+	<nitro_boost name="grip_multiplier" offset="00000194" type="float" />
+	<nitro_boost name="push_force" offset="00000198" type="float" />
+	<nitro_boost name="extra_top_speed" offset="000001A0" type="float" />
+	<nitro_boost_upgraded name="torque_multiplier" offset="000001A4" type="float" />
+	<nitro_boost_upgraded name="grip_multiplier" offset="000001A8" type="float" />
+	<nitro_boost_upgraded name="push_force" offset="000001AC" type="float" />
+	<nitro_boost_upgraded name="extra_top_speed" offset="000001B4" type="float" />
+	<turbo_jump name="f_multiplier" offset="000001B8" type="float" />
+	<turbo_jump name="r_multiplier" offset="000001BC" type="float" />
+	<turbo_jump name="punch_speed_kph" offset="000001C4" type="float" />
+	<turbo_jump name="top_speed_kph" offset="000001C8" type="float" />
+	<turbo_jump_upgraded name="f_multiplier" offset="000001D0" type="float" />
+	<turbo_jump_upgraded name="r_multiplier" offset="000001D4" type="float" />
+	<turbo_jump_upgraded name="punch_speed_kph" offset="000001DC" type="float" />
+	<turbo_jump_upgraded name="top_speed_kph" offset="000001E0" type="float" />
+</root>

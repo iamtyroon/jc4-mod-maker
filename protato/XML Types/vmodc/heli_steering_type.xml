@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<heli_steering name="max_heli_steering_angle" offset="000000F4" type="float" />
+	<heli_steering name="roll_return" offset="000000FC" type="float" />
+	<heli_steering name="pitch_return" offset="00000100" type="float" />
+	<heli_steering name="ReferenceMinSpeedKPH" offset="00000104" type="float" />
+	<heli_steering name="ReferenceMaxSpeedKPH" offset="00000108" type="float" />
+	<heli_steering name="return_pitch_limit" offset="0000013C" type="float" />
+	<heli_steering name="return_roll_limit" offset="00000140" type="float" />
+</root>

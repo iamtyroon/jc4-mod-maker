@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<steering name="t_to_full_steer_s" offset="00000100" type="float" />
+	<steering name="max_speed_t_to_full_steer_s" offset="00000104" type="float" />
+	<steering name="min_speed_kmph" offset="00000108" type="float" />
+	<steering name="max_speed_kmph" offset="0000010C" type="float" />
+	<steering name="steer_angle_min_speed_deg" offset="00000110" type="float" />
+	<steering name="steer_angle_max_speed_deg" offset="00000114" type="float" />
+</root>

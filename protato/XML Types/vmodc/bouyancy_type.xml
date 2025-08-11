@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<buoyancy name="buoyancy" offset="000000F8" type="float" />
+	<buoyancy name="drag" offset="000000FC" type="float" />
+	<buoyancy name="radius" offset="00000100" type="float" />
+</root>

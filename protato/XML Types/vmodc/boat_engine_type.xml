@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<boat_engine name="x_min" offset="00000108" type="float" />
+	<boat_engine name="x_max" offset="0000010C" type="float" />
+	<boat_engine name="y_min" offset="00000110" type="float" />
+	<boat_engine name="y_max" offset="00000114" type="float" />
+</root>

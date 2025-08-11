@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<aerodynamics name="air_density" offset="000000F4" type="float" />
+	<aerodynamics name="drag_coefficient" offset="000000FC" type="float" />
+	<aerodynamics name="top_speed_drag_coefficient" offset="00000100" type="float" />
+	<aerodynamics name="lift_coefficient" offset="00000104" type="float" />
+</root>

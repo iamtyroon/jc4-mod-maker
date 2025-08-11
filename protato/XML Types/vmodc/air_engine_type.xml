@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<air_engine name="min_thrust" offset="000000F4" type="float" />
+	<air_engine name="max_thrust" offset="000000F8" type="float" />
+	<air_engine name="run_thrust" offset="000000FC" type="float" />
+	<air_engine name="max_thrust_acceleration" offset="00000100" type="float" />
+	<air_engine name="taxiing_max_thrust" offset="00000104" type="float" />
+	<air_engine name="taxiing_top_speed" offset="0000010C" type="float" />
+	<air_engine name="is_reversible" offset="00000114" type="int8" />
+</root>

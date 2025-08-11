@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<universal name="magazine_size" offset="00000120" type="int32" />
+	<universal name="unlimited_ammo" offset="00000168" type="uint8" />
+	<universal name="max_range" offset="00000124" type="float" />
+	<universal name="velocity" offset="00000130" type="float" />
+	<universal name="fire_rate" offset="00000138" type="float" />
+	<universal name="reload_time_scale" offset="00000128" type="float" />
+	<universal name="fully_automatic" offset="00000145" type="uint8" />
+	<universal name="burst_count" offset="0000013C" type="uint8" />
+	<universal name="burst_cooldown" offset="00000140" type="float" />
+</root>

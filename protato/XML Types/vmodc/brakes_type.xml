@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<brakes_front name="handbrake" offset="000000F4" type="int32" />
+	<brakes_front name="max_brake_torque" offset="000000F8" type="float" />
+	<brakes_front name="min_time_to_block" offset="000000FC" type="float" />
+	<brakes_back name="handbrake" offset="00000100" type="int32" />
+	<brakes_back name="max_brake_torque" offset="00000104" type="float" />
+	<brakes_back name="min_time_to_block" offset="00000108" type="float" />
+	<handbrake name="handbrake_friction_factor" offset="0000010C" type="float" />
+</root>

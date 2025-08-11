@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<damage name="damage" offset="0000018C" type="float" />
+	<damage name="vehicle_damage_factor" offset="0000017C" type="float" />
+	<damage name="object_damage_factor" offset="00000184" type="float" />
+	<impulse name="impulse" offset="00000178" type="float" />
+	<impulse name="vehicle_impulse_factor" offset="00000180" type="float" />
+	<impulse name="object_impulse_factor" offset="00000188" type="float" />
+	<recoil name="recoil_yaw_xneg" offset="00000190" type="float" />
+	<recoil name="recoil_yaw_xpos" offset="00000194" type="float" />
+	<recoil name="recoil_pitch_yneg" offset="00000198" type="float" />
+	<recoil name="recoil_pitch_ypos" offset="0000019C" type="float" />
+	<scatter name="scatter_minimum" offset="000001B4" type="float" />
+	<scatter name="scatter_maximum" offset="000001B8" type="float" />
+	<scatter name="scatter_per_shot" offset="000001BC" type="float" />
+	<scatter name="scatter_clamp_horizontal_xneg" offset="000001D0" type="float" />
+	<scatter name="scatter_clamp_horizontal_xpos" offset="000001D4" type="float" />
+	<scatter name="scatter_clamp_horizontal_yneg" offset="000001D8" type="float" />
+	<scatter name="scatter_clamp_horizontal_ypos" offset="000001DC" type="float" />
+</root>

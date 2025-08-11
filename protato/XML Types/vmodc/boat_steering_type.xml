@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<boat_steering name="t_to_full_input_min_speed_s" offset="000000F4" type="float" />
+	<boat_steering name="t_to_full_input_max_speed_s" offset="000000F8" type="float" />
+	<boat_steering name="input_start_speed_kmph" offset="000000FC" type="float" />
+	<boat_steering name="input_max_speed_kmph" offset="00000100" type="float" />
+</root>

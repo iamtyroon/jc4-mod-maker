@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<missile_tuning name="missile_acceleration_time_min" offset="00000214" type="float" />
+	<missile_tuning name="missile_acceleration_time_max" offset="00000218" type="float" />
+	<missile_tuning name="missile_acceleration_min" offset="0000021C" type="float" />
+	<missile_tuning name="missile_acceleration_max" offset="00000220" type="float" />
+	<missile_tuning name="missile_turning_speed" offset="0000022C" type="float" />
+	<missile_tuning name="missile_turning_speed_random" offset="00000230" type="float" />
+	<missile_tuning name="missile_detonation_time" offset="00000238" type="float" />
+	<missile_tuning name="missile_detonation_time_random" offset="0000023C" type="float" />
+	<missile_tuning name="missile_per_shot" offset="00000240" type="uint8" />
+	<missile_tuning name="gravity" offset="00000250" type="float" />
+</root>

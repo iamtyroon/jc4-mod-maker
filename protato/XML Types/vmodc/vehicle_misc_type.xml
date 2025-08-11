@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<misc name="official_top_speed" offset="00000110" type="float" />
+	<misc name="open_door_duration_s" offset="000000F8" type="float" />
+	<misc name="close_door_duration_s" offset="000000FC" type="float" />
+	<misc name="full_nitro_refill_time" offset="0000011C" type="float" />
+	<misc name="full_nitro_refill_time_lvl2" offset="00000120" type="float" />
+	<misc name="nitro_refill_min_speed_kph" offset="00000124" type="float" />
+	<misc name="full_nitro_use_time" offset="00000128" type="float" />
+	<misc name="full_nitro_use_time_upgraded" offset="0000012C" type="float" />
+	<misc name="full_nitro_use_time_upgraded_lvl2" offset="00000130" type="float" />
+	<misc name="turbo_jump_cooldown" offset="00000134" type="float" />
+	<misc name="turbo_jump_cooldown_upgraded" offset="00000138" type="float" />
+</root>

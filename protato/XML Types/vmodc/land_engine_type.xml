@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<land_engine name="max_rpm" offset="00000108" type="float" />
+	<land_engine name="min_rpm" offset="0000010C" type="float" />
+	<land_engine name="optimal_rpm" offset="00000110" type="float" />
+	<land_engine name="torque_factor_at_max_rpm" offset="00000114" type="float" />
+	<land_engine name="torque_factor_at_min_rpm" offset="00000118" type="float" />
+	<land_engine name="torque_factor_at_optimal_rpm" offset="0000011C" type="float" />
+</root>

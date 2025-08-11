@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<bullet_tuning name="bullets_per_shot" offset="0000026A" type="uint8" />
+	<bullet_tuning name="headshot_multiplier" offset="00000274" type="float" />
+	<bullet_tuning name="ricochet_chance" offset="00000230" type="float" />
+</root>

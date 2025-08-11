@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<nitro_boost name="prop_torque_multiplier" offset="00000100" type="float" />
+	<nitro_boost name="prop_rpm_multiplier" offset="00000104" type="float" />
+	<nitro_boost name="extra_top_speed" offset="00000108" type="float" />
+	<nitro_boost_upgraded name="prop_torque_multiplier" offset="0000010C" type="float" />
+	<nitro_boost_upgraded name="prop_rpm_multiplier" offset="00000110" type="float" />
+	<nitro_boost_upgraded name="extra_top_speed" offset="00000114" type="float" />
+	<turbo_jump name="up_multiplier" offset="00000118" type="float" />
+	<turbo_jump name="punch_speed_kph" offset="00000120" type="float" />
+	<turbo_jump name="top_speed_kph" offset="00000124" type="float" />
+	<turbo_jump name="top_speed_jump_multiplier" offset="00000128" type="float" />
+	<turbo_jump_upgraded name="up_multiplier" offset="0000012C" type="float" />
+	<turbo_jump_upgraded name="punch_speed_kph" offset="00000134" type="float" />
+	<turbo_jump_upgraded name="top_speed_kph" offset="00000138" type="float" />
+	<turbo_jump_upgraded name="top_speed_jump_multiplier" offset="0000013C" type="float" />
+</root>
